@@ -1,0 +1,22 @@
+From:	Anamika Nupur Choudhary
+Sent:	Sunday, March 6, 2016 10:46 PM
+To:	Vladislav Dubrovenski
+Subject:	Project 1 Phase 1 Remarks
+
+Follow Up Flag:	Follow up
+Flag Status:	Flagged
+
+Hi,
+
+Total Score: 2.9
+Telephone does not access to set of tenants in object diagram -0.3
+No info on log or bar in object diagram -0.3
+No info on tenant names in class diagram -0.1
+calls and callData in tenant class is not required -0.1
+'callingTenant' is not identified  -0.1
+callData,BarredBumbers should be made into a class not String -0.1
+There should be an association from telephone to System and not to console -0.1
+Suggestion : An association from Telephone to Tenant to reduce redundancy
+
+Regards,
+Anamika

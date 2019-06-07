@@ -1,0 +1,171 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProductVersion>8.0.30703</ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{C17C175E-E31F-46F6-B887-EE17DE1D7896}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>DTS_Project</RootNamespace>
+    <AssemblyName>DTS_DialogBoxes</AssemblyName>
+    <TargetFrameworkVersion>v4.5</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <TargetFrameworkProfile />
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <Prefer32Bit>false</Prefer32Bit>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <Prefer32Bit>false</Prefer32Bit>
+  </PropertyGroup>
+  <PropertyGroup>
+    <StartupObject />
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="AccessCodeDialog.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="AccessCodeDialog.designer.cs">
+      <DependentUpon>AccessCodeDialog.cs</DependentUpon>
+    </Compile>
+    <Compile Include="AreaCodeDialog.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="AreaCodeDialog.designer.cs">
+      <DependentUpon>AreaCodeDialog.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ConnectedDialog.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ConnectedDialog.designer.cs">
+      <DependentUpon>ConnectedDialog.cs</DependentUpon>
+    </Compile>
+    <Compile Include="DTS.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="DTS.designer.cs">
+      <DependentUpon>DTS.cs</DependentUpon>
+    </Compile>
+    <Compile Include="InputTenantDialog.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="InputTenantDialog.designer.cs">
+      <DependentUpon>InputTenantDialog.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ListDialog.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ListDialog.designer.cs">
+      <DependentUpon>ListDialog.cs</DependentUpon>
+    </Compile>
+    <Compile Include="LocateTenantDialog.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="LocateTenantDialog.designer.cs">
+      <DependentUpon>LocateTenantDialog.cs</DependentUpon>
+    </Compile>
+    <Compile Include="MainMenuDialog.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="MainMenuDialog.designer.cs">
+      <DependentUpon>MainMenuDialog.cs</DependentUpon>
+    </Compile>
+    <Compile Include="PasswordDialog.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="PasswordDialog.designer.cs">
+      <DependentUpon>PasswordDialog.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="TelephoneDevice.cs" />
+    <Compile Include="TelephoneDialog.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="TelephoneDialog.designer.cs">
+      <DependentUpon>TelephoneDialog.cs</DependentUpon>
+    </Compile>
+    <Compile Include="TenantMenuDialog.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="TenantMenuDialog.designer.cs">
+      <DependentUpon>TenantMenuDialog.cs</DependentUpon>
+    </Compile>
+    <Compile Include="TerminalDevice.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="AccessCodeDialog.resx">
+      <DependentUpon>AccessCodeDialog.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="AreaCodeDialog.resx">
+      <DependentUpon>AreaCodeDialog.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ConnectedDialog.resx">
+      <DependentUpon>ConnectedDialog.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="DTS.resx">
+      <DependentUpon>DTS.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="InputTenantDialog.resx">
+      <DependentUpon>InputTenantDialog.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ListDialog.resx">
+      <DependentUpon>ListDialog.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="LocateTenantDialog.resx">
+      <DependentUpon>LocateTenantDialog.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="MainMenuDialog.resx">
+      <DependentUpon>MainMenuDialog.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="PasswordDialog.resx">
+      <DependentUpon>PasswordDialog.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="TelephoneDialog.resx">
+      <DependentUpon>TelephoneDialog.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="TenantMenuDialog.resx">
+      <DependentUpon>TenantMenuDialog.cs</DependentUpon>
+    </EmbeddedResource>
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\Sample1\Sample1.csproj">
+      <Project>{6aa0a015-ad4d-43ee-8014-12ff2a85d00d}</Project>
+      <Name>Sample1</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

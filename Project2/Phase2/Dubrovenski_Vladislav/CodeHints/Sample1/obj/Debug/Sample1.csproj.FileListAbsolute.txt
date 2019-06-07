@@ -1,0 +1,18 @@
+C:\K-StateCourses\cis501\Runs\2016S\Project2\CodeHints\Sample1\bin\Debug\Sample1.dll.config
+C:\K-StateCourses\cis501\Runs\2016S\Project2\CodeHints\Sample1\bin\Debug\Sample1.dll
+C:\K-StateCourses\cis501\Runs\2016S\Project2\CodeHints\Sample1\bin\Debug\Sample1.pdb
+C:\K-StateCourses\cis501\Runs\2016S\Project2\CodeHints\Sample1\obj\Debug\Sample1.csprojResolveAssemblyReference.cache
+C:\K-StateCourses\cis501\Runs\2016S\Project2\CodeHints\Sample1\obj\Debug\DTS_Project.DateForm.resources
+C:\K-StateCourses\cis501\Runs\2016S\Project2\CodeHints\Sample1\obj\Debug\Sample1.Properties.Resources.resources
+C:\K-StateCourses\cis501\Runs\2016S\Project2\CodeHints\Sample1\obj\Debug\Sample1.csproj.GenerateResource.Cache
+C:\K-StateCourses\cis501\Runs\2016S\Project2\CodeHints\Sample1\obj\Debug\Sample1.dll
+C:\K-StateCourses\cis501\Runs\2016S\Project2\CodeHints\Sample1\obj\Debug\Sample1.pdb
+C:\Users\Vladislav\Desktop\CIS 501\Project2\Phase2\Dubrovenski_Vladislav\CodeHints\Sample1\bin\Debug\Sample1.dll.config
+C:\Users\Vladislav\Desktop\CIS 501\Project2\Phase2\Dubrovenski_Vladislav\CodeHints\Sample1\bin\Debug\Sample1.dll
+C:\Users\Vladislav\Desktop\CIS 501\Project2\Phase2\Dubrovenski_Vladislav\CodeHints\Sample1\bin\Debug\Sample1.pdb
+C:\Users\Vladislav\Desktop\CIS 501\Project2\Phase2\Dubrovenski_Vladislav\CodeHints\Sample1\obj\Debug\Sample1.csprojResolveAssemblyReference.cache
+C:\Users\Vladislav\Desktop\CIS 501\Project2\Phase2\Dubrovenski_Vladislav\CodeHints\Sample1\obj\Debug\DTS_Project.DateForm.resources
+C:\Users\Vladislav\Desktop\CIS 501\Project2\Phase2\Dubrovenski_Vladislav\CodeHints\Sample1\obj\Debug\Sample1.Properties.Resources.resources
+C:\Users\Vladislav\Desktop\CIS 501\Project2\Phase2\Dubrovenski_Vladislav\CodeHints\Sample1\obj\Debug\Sample1.csproj.GenerateResource.Cache
+C:\Users\Vladislav\Desktop\CIS 501\Project2\Phase2\Dubrovenski_Vladislav\CodeHints\Sample1\obj\Debug\Sample1.dll
+C:\Users\Vladislav\Desktop\CIS 501\Project2\Phase2\Dubrovenski_Vladislav\CodeHints\Sample1\obj\Debug\Sample1.pdb

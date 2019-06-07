@@ -1,0 +1,8 @@
+C:\Users\Vladislav\Desktop\CIS 501\Project1\Dubrovenski_Vladislav\Project1\Project1\bin\Debug\Project1.exe.config
+C:\Users\Vladislav\Desktop\CIS 501\Project1\Dubrovenski_Vladislav\Project1\Project1\bin\Debug\Project1.exe
+C:\Users\Vladislav\Desktop\CIS 501\Project1\Dubrovenski_Vladislav\Project1\Project1\bin\Debug\Project1.pdb
+C:\Users\Vladislav\Desktop\CIS 501\Project1\Dubrovenski_Vladislav\Project1\Project1\obj\Debug\Project1.exe
+C:\Users\Vladislav\Desktop\CIS 501\Project1\Dubrovenski_Vladislav\Project1\Project1\obj\Debug\Project1.pdb
+C:\Users\Vladislav\Desktop\Past School Folders\CIS 501\Project1\Dubrovenski_Vladislav\Project1\Project1\bin\Debug\Project1.exe.config
+C:\Users\Vladislav\Desktop\Past School Folders\CIS 501\Project1\Dubrovenski_Vladislav\Project1\Project1\obj\Debug\Project1.exe
+C:\Users\Vladislav\Desktop\Past School Folders\CIS 501\Project1\Dubrovenski_Vladislav\Project1\Project1\obj\Debug\Project1.pdb

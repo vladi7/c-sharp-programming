@@ -1,0 +1,49 @@
+C:\Users\Julie\Desktop\cis300\TestGUI\TestGUI\bin\Debug\Ksu.Cis300.Sudoku.exe.config
+C:\Users\Julie\Desktop\cis300\TestGUI\TestGUI\bin\Debug\Ksu.Cis300.Sudoku.exe
+C:\Users\Julie\Desktop\cis300\TestGUI\TestGUI\bin\Debug\Ksu.Cis300.Sudoku.pdb
+C:\Users\Julie\Desktop\cis300\TestGUI\TestGUI\obj\Debug\Ksu.Cis300.Sudoku.csprojResolveAssemblyReference.cache
+C:\Users\Julie\Desktop\cis300\TestGUI\TestGUI\obj\Debug\TestGUI.Form1.resources
+C:\Users\Julie\Desktop\cis300\TestGUI\TestGUI\obj\Debug\Ksu.Cis300.Sudoku.Properties.Resources.resources
+C:\Users\Julie\Desktop\cis300\TestGUI\TestGUI\obj\Debug\Ksu.Cis300.Sudoku.csproj.GenerateResource.Cache
+C:\Users\Julie\Desktop\cis300\TestGUI\TestGUI\obj\Debug\Ksu.Cis300.Sudoku.exe
+C:\Users\Julie\Desktop\cis300\TestGUI\TestGUI\obj\Debug\Ksu.Cis300.Sudoku.pdb
+C:\Users\Julie\Desktop\cis300\TestGUI\TestGUI\obj\Debug\Ksu.Cis300.Sudoku.Form1.resources
+C:\Users\Julie\Desktop\cis300\Ksu.Cis300.Sudoku\Ksu.Cis300.Sudoku\bin\Debug\Ksu.Cis300.Sudoku.exe.config
+C:\Users\Julie\Desktop\cis300\Ksu.Cis300.Sudoku\Ksu.Cis300.Sudoku\bin\Debug\Ksu.Cis300.Sudoku.exe
+C:\Users\Julie\Desktop\cis300\Ksu.Cis300.Sudoku\Ksu.Cis300.Sudoku\bin\Debug\Ksu.Cis300.Sudoku.pdb
+C:\Users\Julie\Desktop\cis300\Ksu.Cis300.Sudoku\Ksu.Cis300.Sudoku\obj\Debug\Ksu.Cis300.Sudoku.Form1.resources
+C:\Users\Julie\Desktop\cis300\Ksu.Cis300.Sudoku\Ksu.Cis300.Sudoku\obj\Debug\Ksu.Cis300.Sudoku.Properties.Resources.resources
+C:\Users\Julie\Desktop\cis300\Ksu.Cis300.Sudoku\Ksu.Cis300.Sudoku\obj\Debug\Ksu.Cis300.Sudoku.csproj.GenerateResource.Cache
+C:\Users\Julie\Desktop\cis300\Ksu.Cis300.Sudoku\Ksu.Cis300.Sudoku\obj\Debug\Ksu.Cis300.Sudoku.exe
+C:\Users\Julie\Desktop\cis300\Ksu.Cis300.Sudoku\Ksu.Cis300.Sudoku\obj\Debug\Ksu.Cis300.Sudoku.pdb
+D:\cis300\fall15\HW 6\Ksu.Cis300.Sudoku\Ksu.Cis300.Sudoku\bin\Debug\Ksu.Cis300.Sudoku.exe.config
+D:\cis300\fall15\HW 6\Ksu.Cis300.Sudoku\Ksu.Cis300.Sudoku\obj\Debug\Ksu.Cis300.Sudoku.exe
+D:\cis300\fall15\HW 6\Ksu.Cis300.Sudoku\Ksu.Cis300.Sudoku\obj\Debug\Ksu.Cis300.Sudoku.pdb
+D:\cis300\fall15\HW 6\Ksu.Cis300.Sudoku\Ksu.Cis300.Sudoku\bin\Debug\Ksu.Cis300.Sudoku.exe
+D:\cis300\fall15\HW 6\Ksu.Cis300.Sudoku\Ksu.Cis300.Sudoku\bin\Debug\Ksu.Cis300.Sudoku.pdb
+D:\cis300\fall15\HW 6\Ksu.Cis300.Sudoku\Ksu.Cis300.Sudoku\obj\Debug\Ksu.Cis300.Sudoku.csprojResolveAssemblyReference.cache
+D:\cis300\fall15\HW 6\Ksu.Cis300.Sudoku\Ksu.Cis300.Sudoku\obj\Debug\Ksu.Cis300.Sudoku.UserInterface.resources
+D:\cis300\fall15\HW 6\Ksu.Cis300.Sudoku\Ksu.Cis300.Sudoku\obj\Debug\Ksu.Cis300.Sudoku.Properties.Resources.resources
+D:\cis300\fall15\HW 6\Ksu.Cis300.Sudoku\Ksu.Cis300.Sudoku\obj\Debug\Ksu.Cis300.Sudoku.csproj.GenerateResource.Cache
+D:\cis300\fall15\HW6_start\Ksu.Cis300.Sudoku\Ksu.Cis300.Sudoku\bin\Debug\Ksu.Cis300.Sudoku.exe.config
+D:\cis300\fall15\HW6_start\Ksu.Cis300.Sudoku\Ksu.Cis300.Sudoku\obj\Debug\Ksu.Cis300.Sudoku.exe
+D:\cis300\fall15\HW6_start\Ksu.Cis300.Sudoku\Ksu.Cis300.Sudoku\obj\Debug\Ksu.Cis300.Sudoku.pdb
+D:\cis300\fall15\HW6_start\Ksu.Cis300.Sudoku\Ksu.Cis300.Sudoku\bin\Debug\Ksu.Cis300.Sudoku.exe
+D:\cis300\fall15\HW6_start\Ksu.Cis300.Sudoku\Ksu.Cis300.Sudoku\bin\Debug\Ksu.Cis300.Sudoku.pdb
+D:\cis300\fall15\HW6_start\Ksu.Cis300.Sudoku\Ksu.Cis300.Sudoku\obj\Debug\Ksu.Cis300.Sudoku.csprojResolveAssemblyReference.cache
+D:\cis300\fall15\HW6_start\Ksu.Cis300.Sudoku\Ksu.Cis300.Sudoku\obj\Debug\Ksu.Cis300.Sudoku.UserInterface.resources
+D:\cis300\fall15\HW6_start\Ksu.Cis300.Sudoku\Ksu.Cis300.Sudoku\obj\Debug\Ksu.Cis300.Sudoku.Properties.Resources.resources
+D:\cis300\fall15\HW6_start\Ksu.Cis300.Sudoku\Ksu.Cis300.Sudoku\obj\Debug\Ksu.Cis300.Sudoku.csproj.GenerateResource.Cache
+C:\Users\Vladislav\Desktop\CIS 300\Homework 6\Ksu.Cis300.Sudoku\Ksu.Cis300.Sudoku\bin\Debug\Ksu.Cis300.Sudoku.exe.config
+C:\Users\Vladislav\Desktop\CIS 300\Homework 6\Ksu.Cis300.Sudoku\Ksu.Cis300.Sudoku\obj\Debug\Ksu.Cis300.Sudoku.exe
+C:\Users\Vladislav\Desktop\CIS 300\Homework 6\Ksu.Cis300.Sudoku\Ksu.Cis300.Sudoku\obj\Debug\Ksu.Cis300.Sudoku.pdb
+C:\Users\Vladislav\Desktop\CIS 300\Homework 6\Ksu.Cis300.Sudoku\Ksu.Cis300.Sudoku\bin\Debug\Ksu.Cis300.Sudoku.exe
+C:\Users\Vladislav\Desktop\CIS 300\Homework 6\Ksu.Cis300.Sudoku\Ksu.Cis300.Sudoku\bin\Debug\Ksu.Cis300.Sudoku.pdb
+C:\Users\Vladislav\Desktop\CIS 300\Homework 6\Ksu.Cis300.Sudoku\Ksu.Cis300.Sudoku\obj\Debug\Ksu.Cis300.Sudoku.UserInterface.resources
+C:\Users\Vladislav\Desktop\CIS 300\Homework 6\Ksu.Cis300.Sudoku\Ksu.Cis300.Sudoku\obj\Debug\Ksu.Cis300.Sudoku.Properties.Resources.resources
+C:\Users\Vladislav\Desktop\CIS 300\Homework 6\Ksu.Cis300.Sudoku\Ksu.Cis300.Sudoku\obj\Debug\Ksu.Cis300.Sudoku.csproj.GenerateResource.Cache
+C:\Users\Vladislav\Desktop\CIS 300\Homework 6\Ksu.Cis300.Sudoku\Ksu.Cis300.Sudoku\bin\Debug\Ksu.Cis300.Graphs.dll
+C:\Users\Vladislav\Desktop\CIS 300\Homework 6\Ksu.Cis300.Sudoku\Ksu.Cis300.Sudoku\obj\Debug\Ksu.Cis300.Sudoku.csprojResolveAssemblyReference.cache
+C:\Users\Vladislav\Desktop\Past School Folders\CIS 300\Homework 6\Ksu.Cis300.Sudoku\Ksu.Cis300.Sudoku\bin\Debug\Ksu.Cis300.Sudoku.exe.config
+C:\Users\Vladislav\Desktop\Past School Folders\CIS 300\Homework 6\Ksu.Cis300.Sudoku\Ksu.Cis300.Sudoku\obj\Debug\Ksu.Cis300.Sudoku.exe
+C:\Users\Vladislav\Desktop\Past School Folders\CIS 300\Homework 6\Ksu.Cis300.Sudoku\Ksu.Cis300.Sudoku\obj\Debug\Ksu.Cis300.Sudoku.pdb

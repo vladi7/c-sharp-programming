@@ -1,0 +1,59 @@
+C:\K-StateCourses\cis501\DTS\2016S\DTS_Project\DTS_BoundaryClasses\bin\Debug\DTS_DialogBoxes.exe
+C:\K-StateCourses\cis501\DTS\2016S\DTS_Project\DTS_BoundaryClasses\bin\Debug\DTS_DialogBoxes.pdb
+C:\K-StateCourses\cis501\DTS\2016S\DTS_Project\DTS_BoundaryClasses\obj\Debug\DTS_BoundaryClasses.csprojResolveAssemblyReference.cache
+C:\K-StateCourses\cis501\DTS\2016S\DTS_Project\DTS_BoundaryClasses\obj\Debug\DTS_Project.AccessCodeDialog.resources
+C:\K-StateCourses\cis501\DTS\2016S\DTS_Project\DTS_BoundaryClasses\obj\Debug\DTS_Project.AreaCodeDialog.resources
+C:\K-StateCourses\cis501\DTS\2016S\DTS_Project\DTS_BoundaryClasses\obj\Debug\DTS_Project.ConnectedDialog.resources
+C:\K-StateCourses\cis501\DTS\2016S\DTS_Project\DTS_BoundaryClasses\obj\Debug\DTS_Project.DTS.resources
+C:\K-StateCourses\cis501\DTS\2016S\DTS_Project\DTS_BoundaryClasses\obj\Debug\DTS_Project.InputTenantDialog.resources
+C:\K-StateCourses\cis501\DTS\2016S\DTS_Project\DTS_BoundaryClasses\obj\Debug\DTS_Project.ListDialog.resources
+C:\K-StateCourses\cis501\DTS\2016S\DTS_Project\DTS_BoundaryClasses\obj\Debug\DTS_Project.LocateTenantDialog.resources
+C:\K-StateCourses\cis501\DTS\2016S\DTS_Project\DTS_BoundaryClasses\obj\Debug\DTS_Project.MainMenuDialog.resources
+C:\K-StateCourses\cis501\DTS\2016S\DTS_Project\DTS_BoundaryClasses\obj\Debug\DTS_Project.PasswordDialog.resources
+C:\K-StateCourses\cis501\DTS\2016S\DTS_Project\DTS_BoundaryClasses\obj\Debug\DTS_Project.TelephoneDialog.resources
+C:\K-StateCourses\cis501\DTS\2016S\DTS_Project\DTS_BoundaryClasses\obj\Debug\DTS_Project.TenantMenuDialog.resources
+C:\K-StateCourses\cis501\DTS\2016S\DTS_Project\DTS_BoundaryClasses\obj\Debug\DTS_BoundaryClasses.csproj.GenerateResource.Cache
+C:\K-StateCourses\cis501\DTS\2016S\DTS_Project\DTS_BoundaryClasses\obj\Debug\DTS_DialogBoxes.exe
+C:\K-StateCourses\cis501\DTS\2016S\DTS_Project\DTS_BoundaryClasses\obj\Debug\DTS_DialogBoxes.pdb
+C:\K-StateCourses\cis501\DTS\2016S\DTS_Project\DTS_BoundaryClasses\bin\Debug\DTS.dll
+C:\K-StateCourses\cis501\DTS\2016S\DTS_Project\DTS_BoundaryClasses\bin\Debug\DTS.pdb
+C:\K-StateCourses\cis501\Runs\2016S\Project2\DTS_Project\DTS_BoundaryClasses\obj\Debug\DTS_DialogBoxes.exe
+C:\K-StateCourses\cis501\Runs\2016S\Project2\DTS_Project\DTS_BoundaryClasses\obj\Debug\DTS_DialogBoxes.pdb
+C:\K-StateCourses\cis501\Runs\2016S\Project2\DTS_Project\DTS_BoundaryClasses\bin\Debug\DTS_DialogBoxes.exe
+C:\K-StateCourses\cis501\Runs\2016S\Project2\DTS_Project\DTS_BoundaryClasses\bin\Debug\DTS_DialogBoxes.pdb
+C:\K-StateCourses\cis501\Runs\2016S\Project2\DTS_Project\DTS_BoundaryClasses\bin\Debug\DTS.dll
+C:\K-StateCourses\cis501\Runs\2016S\Project2\DTS_Project\DTS_BoundaryClasses\bin\Debug\DTS.pdb
+C:\K-StateCourses\cis501\Runs\2016S\Project2\DTS_Project\DTS_BoundaryClasses\obj\Debug\DTS_BoundaryClasses.csprojResolveAssemblyReference.cache
+C:\K-StateCourses\cis501\Runs\2016S\Project2\DTS_Project\DTS_BoundaryClasses\obj\Debug\DTS_Project.AccessCodeDialog.resources
+C:\K-StateCourses\cis501\Runs\2016S\Project2\DTS_Project\DTS_BoundaryClasses\obj\Debug\DTS_Project.AreaCodeDialog.resources
+C:\K-StateCourses\cis501\Runs\2016S\Project2\DTS_Project\DTS_BoundaryClasses\obj\Debug\DTS_Project.ConnectedDialog.resources
+C:\K-StateCourses\cis501\Runs\2016S\Project2\DTS_Project\DTS_BoundaryClasses\obj\Debug\DTS_Project.DTS.resources
+C:\K-StateCourses\cis501\Runs\2016S\Project2\DTS_Project\DTS_BoundaryClasses\obj\Debug\DTS_Project.InputTenantDialog.resources
+C:\K-StateCourses\cis501\Runs\2016S\Project2\DTS_Project\DTS_BoundaryClasses\obj\Debug\DTS_Project.ListDialog.resources
+C:\K-StateCourses\cis501\Runs\2016S\Project2\DTS_Project\DTS_BoundaryClasses\obj\Debug\DTS_Project.LocateTenantDialog.resources
+C:\K-StateCourses\cis501\Runs\2016S\Project2\DTS_Project\DTS_BoundaryClasses\obj\Debug\DTS_Project.MainMenuDialog.resources
+C:\K-StateCourses\cis501\Runs\2016S\Project2\DTS_Project\DTS_BoundaryClasses\obj\Debug\DTS_Project.PasswordDialog.resources
+C:\K-StateCourses\cis501\Runs\2016S\Project2\DTS_Project\DTS_BoundaryClasses\obj\Debug\DTS_Project.TelephoneDialog.resources
+C:\K-StateCourses\cis501\Runs\2016S\Project2\DTS_Project\DTS_BoundaryClasses\obj\Debug\DTS_Project.TenantMenuDialog.resources
+C:\K-StateCourses\cis501\Runs\2016S\Project2\DTS_Project\DTS_BoundaryClasses\obj\Debug\DTS_BoundaryClasses.csproj.GenerateResource.Cache
+C:\Users\Vladislav\Desktop\CIS 501\Project2\Phase2\Dubrovenski_Vladislav\DTS_BoundaryClasses\obj\Debug\DTS_DialogBoxes.exe
+C:\Users\Vladislav\Desktop\CIS 501\Project2\Phase2\Dubrovenski_Vladislav\DTS_BoundaryClasses\obj\Debug\DTS_DialogBoxes.pdb
+C:\Users\Vladislav\Desktop\CIS 501\Project2\Phase2\Dubrovenski_Vladislav\DTS_BoundaryClasses\bin\Debug\DTS_DialogBoxes.exe
+C:\Users\Vladislav\Desktop\CIS 501\Project2\Phase2\Dubrovenski_Vladislav\DTS_BoundaryClasses\bin\Debug\DTS_DialogBoxes.pdb
+C:\Users\Vladislav\Desktop\CIS 501\Project2\Phase2\Dubrovenski_Vladislav\DTS_BoundaryClasses\bin\Debug\DTS.dll
+C:\Users\Vladislav\Desktop\CIS 501\Project2\Phase2\Dubrovenski_Vladislav\DTS_BoundaryClasses\bin\Debug\DTS.pdb
+C:\Users\Vladislav\Desktop\CIS 501\Project2\Phase2\Dubrovenski_Vladislav\DTS_BoundaryClasses\obj\Debug\DTS_BoundaryClasses.csprojResolveAssemblyReference.cache
+C:\Users\Vladislav\Desktop\CIS 501\Project2\Phase2\Dubrovenski_Vladislav\DTS_BoundaryClasses\obj\Debug\DTS_Project.AccessCodeDialog.resources
+C:\Users\Vladislav\Desktop\CIS 501\Project2\Phase2\Dubrovenski_Vladislav\DTS_BoundaryClasses\obj\Debug\DTS_Project.AreaCodeDialog.resources
+C:\Users\Vladislav\Desktop\CIS 501\Project2\Phase2\Dubrovenski_Vladislav\DTS_BoundaryClasses\obj\Debug\DTS_Project.ConnectedDialog.resources
+C:\Users\Vladislav\Desktop\CIS 501\Project2\Phase2\Dubrovenski_Vladislav\DTS_BoundaryClasses\obj\Debug\DTS_Project.DTS.resources
+C:\Users\Vladislav\Desktop\CIS 501\Project2\Phase2\Dubrovenski_Vladislav\DTS_BoundaryClasses\obj\Debug\DTS_Project.InputTenantDialog.resources
+C:\Users\Vladislav\Desktop\CIS 501\Project2\Phase2\Dubrovenski_Vladislav\DTS_BoundaryClasses\obj\Debug\DTS_Project.ListDialog.resources
+C:\Users\Vladislav\Desktop\CIS 501\Project2\Phase2\Dubrovenski_Vladislav\DTS_BoundaryClasses\obj\Debug\DTS_Project.LocateTenantDialog.resources
+C:\Users\Vladislav\Desktop\CIS 501\Project2\Phase2\Dubrovenski_Vladislav\DTS_BoundaryClasses\obj\Debug\DTS_Project.MainMenuDialog.resources
+C:\Users\Vladislav\Desktop\CIS 501\Project2\Phase2\Dubrovenski_Vladislav\DTS_BoundaryClasses\obj\Debug\DTS_Project.PasswordDialog.resources
+C:\Users\Vladislav\Desktop\CIS 501\Project2\Phase2\Dubrovenski_Vladislav\DTS_BoundaryClasses\obj\Debug\DTS_Project.TelephoneDialog.resources
+C:\Users\Vladislav\Desktop\CIS 501\Project2\Phase2\Dubrovenski_Vladislav\DTS_BoundaryClasses\obj\Debug\DTS_Project.TenantMenuDialog.resources
+C:\Users\Vladislav\Desktop\CIS 501\Project2\Phase2\Dubrovenski_Vladislav\DTS_BoundaryClasses\obj\Debug\DTS_BoundaryClasses.csproj.GenerateResource.Cache
+C:\Users\Vladislav\Desktop\Past School Folders\CIS 501\Project2\Phase2\Dubrovenski_Vladislav\DTS_BoundaryClasses\obj\Debug\DTS_DialogBoxes.exe
+C:\Users\Vladislav\Desktop\Past School Folders\CIS 501\Project2\Phase2\Dubrovenski_Vladislav\DTS_BoundaryClasses\obj\Debug\DTS_DialogBoxes.pdb

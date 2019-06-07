@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VehicleRegistrationBondary", "VehicleRegistration\VehicleRegistrationBondary.csproj", "{EE948B4D-CCCD-4F11-9944-91B8D58FF2C4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VehicleRegistrationCore", "VehicleRegistrationCore\VehicleRegistrationCore.csproj", "{A8352584-34AC-4F1B-8363-25BF7E6C6527}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EE948B4D-CCCD-4F11-9944-91B8D58FF2C4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EE948B4D-CCCD-4F11-9944-91B8D58FF2C4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EE948B4D-CCCD-4F11-9944-91B8D58FF2C4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EE948B4D-CCCD-4F11-9944-91B8D58FF2C4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A8352584-34AC-4F1B-8363-25BF7E6C6527}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A8352584-34AC-4F1B-8363-25BF7E6C6527}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A8352584-34AC-4F1B-8363-25BF7E6C6527}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A8352584-34AC-4F1B-8363-25BF7E6C6527}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

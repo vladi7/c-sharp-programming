@@ -1,0 +1,23 @@
+C:\Users\howell\Source\Workspaces\Rod Howell CIS 300 Fall 2015\Homework 1\Ksu.Cis300.TravelingSalesperson\Ksu.Cis300.TravelingSalesperson\bin\Debug\Ksu.Cis300.TravelingSalesperson.exe.config
+C:\Users\howell\Source\Workspaces\Rod Howell CIS 300 Fall 2015\Homework 1\Ksu.Cis300.TravelingSalesperson\Ksu.Cis300.TravelingSalesperson\bin\Debug\Ksu.Cis300.TravelingSalesperson.exe
+C:\Users\howell\Source\Workspaces\Rod Howell CIS 300 Fall 2015\Homework 1\Ksu.Cis300.TravelingSalesperson\Ksu.Cis300.TravelingSalesperson\bin\Debug\Ksu.Cis300.TravelingSalesperson.pdb
+C:\Users\howell\Source\Workspaces\Rod Howell CIS 300 Fall 2015\Homework 1\Ksu.Cis300.TravelingSalesperson\Ksu.Cis300.TravelingSalesperson\bin\Debug\Ksu.Cis300.Drawing.dll
+C:\Users\howell\Source\Workspaces\Rod Howell CIS 300 Fall 2015\Homework 1\Ksu.Cis300.TravelingSalesperson\Ksu.Cis300.TravelingSalesperson\obj\Debug\Ksu.Cis300.TravelingSalesperson.csprojResolveAssemblyReference.cache
+C:\Users\howell\Source\Workspaces\Rod Howell CIS 300 Fall 2015\Homework 1\Ksu.Cis300.TravelingSalesperson\Ksu.Cis300.TravelingSalesperson\obj\Debug\Ksu.Cis300.TravelingSalesperson.Properties.Resources.resources
+C:\Users\howell\Source\Workspaces\Rod Howell CIS 300 Fall 2015\Homework 1\Ksu.Cis300.TravelingSalesperson\Ksu.Cis300.TravelingSalesperson\obj\Debug\Ksu.Cis300.TravelingSalesperson.UserInterface.resources
+C:\Users\howell\Source\Workspaces\Rod Howell CIS 300 Fall 2015\Homework 1\Ksu.Cis300.TravelingSalesperson\Ksu.Cis300.TravelingSalesperson\obj\Debug\Ksu.Cis300.TravelingSalesperson.csproj.GenerateResource.Cache
+C:\Users\howell\Source\Workspaces\Rod Howell CIS 300 Fall 2015\Homework 1\Ksu.Cis300.TravelingSalesperson\Ksu.Cis300.TravelingSalesperson\obj\Debug\Ksu.Cis300.TravelingSalesperson.exe
+C:\Users\howell\Source\Workspaces\Rod Howell CIS 300 Fall 2015\Homework 1\Ksu.Cis300.TravelingSalesperson\Ksu.Cis300.TravelingSalesperson\obj\Debug\Ksu.Cis300.TravelingSalesperson.pdb
+C:\Users\Vladislav\Desktop\CIS 300\Homework 3\Ksu.Cis300.TravelingSalesperson\Ksu.Cis300.TravelingSalesperson\bin\Debug\Ksu.Cis300.TravelingSalesperson.exe.config
+C:\Users\Vladislav\Desktop\CIS 300\Homework 3\Ksu.Cis300.TravelingSalesperson\Ksu.Cis300.TravelingSalesperson\obj\Debug\Ksu.Cis300.TravelingSalesperson.exe
+C:\Users\Vladislav\Desktop\CIS 300\Homework 3\Ksu.Cis300.TravelingSalesperson\Ksu.Cis300.TravelingSalesperson\obj\Debug\Ksu.Cis300.TravelingSalesperson.pdb
+C:\Users\Vladislav\Desktop\CIS 300\Homework 3\Ksu.Cis300.TravelingSalesperson\Ksu.Cis300.TravelingSalesperson\obj\Debug\Ksu.Cis300.TravelingSalesperson.csprojResolveAssemblyReference.cache
+C:\Users\Vladislav\Desktop\CIS 300\Homework 3\Ksu.Cis300.TravelingSalesperson\Ksu.Cis300.TravelingSalesperson\obj\Debug\Ksu.Cis300.TravelingSalesperson.Properties.Resources.resources
+C:\Users\Vladislav\Desktop\CIS 300\Homework 3\Ksu.Cis300.TravelingSalesperson\Ksu.Cis300.TravelingSalesperson\obj\Debug\Ksu.Cis300.TravelingSalesperson.UserInterface.resources
+C:\Users\Vladislav\Desktop\CIS 300\Homework 3\Ksu.Cis300.TravelingSalesperson\Ksu.Cis300.TravelingSalesperson\obj\Debug\Ksu.Cis300.TravelingSalesperson.csproj.GenerateResource.Cache
+C:\Users\Vladislav\Desktop\CIS 300\Homework 3\Ksu.Cis300.TravelingSalesperson\Ksu.Cis300.TravelingSalesperson\bin\Debug\Ksu.Cis300.TravelingSalesperson.exe
+C:\Users\Vladislav\Desktop\CIS 300\Homework 3\Ksu.Cis300.TravelingSalesperson\Ksu.Cis300.TravelingSalesperson\bin\Debug\Ksu.Cis300.TravelingSalesperson.pdb
+C:\Users\Vladislav\Desktop\CIS 300\Homework 3\Ksu.Cis300.TravelingSalesperson\Ksu.Cis300.TravelingSalesperson\bin\Debug\Ksu.Cis300.Drawing.dll
+C:\Users\Vladislav\Desktop\Past School Folders\CIS 300\Homework 3\Ksu.Cis300.TravelingSalesperson\Ksu.Cis300.TravelingSalesperson\bin\Debug\Ksu.Cis300.TravelingSalesperson.exe.config
+C:\Users\Vladislav\Desktop\Past School Folders\CIS 300\Homework 3\Ksu.Cis300.TravelingSalesperson\Ksu.Cis300.TravelingSalesperson\obj\Debug\Ksu.Cis300.TravelingSalesperson.exe
+C:\Users\Vladislav\Desktop\Past School Folders\CIS 300\Homework 3\Ksu.Cis300.TravelingSalesperson\Ksu.Cis300.TravelingSalesperson\obj\Debug\Ksu.Cis300.TravelingSalesperson.pdb

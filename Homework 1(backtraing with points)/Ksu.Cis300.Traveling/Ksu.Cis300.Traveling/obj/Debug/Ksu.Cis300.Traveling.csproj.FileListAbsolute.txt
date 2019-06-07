@@ -1,0 +1,23 @@
+C:\Users\Vladislav\Desktop\CIS 300\Homework 1\Ksu.Cis300.Traveling\Ksu.Cis300.Traveling\bin\Debug\Ksu.Cis300.Traveling.exe.config
+C:\Users\Vladislav\Desktop\CIS 300\Homework 1\Ksu.Cis300.Traveling\Ksu.Cis300.Traveling\bin\Debug\Ksu.Cis300.Traveling.exe
+C:\Users\Vladislav\Desktop\CIS 300\Homework 1\Ksu.Cis300.Traveling\Ksu.Cis300.Traveling\bin\Debug\Ksu.Cis300.Traveling.pdb
+C:\Users\Vladislav\Desktop\CIS 300\Homework 1\Ksu.Cis300.Traveling\Ksu.Cis300.Traveling\obj\Debug\Ksu.Cis300.Traveling.csprojResolveAssemblyReference.cache
+C:\Users\Vladislav\Desktop\CIS 300\Homework 1\Ksu.Cis300.Traveling\Ksu.Cis300.Traveling\obj\Debug\Ksu.Cis300.Traveling.Properties.Resources.resources
+C:\Users\Vladislav\Desktop\CIS 300\Homework 1\Ksu.Cis300.Traveling\Ksu.Cis300.Traveling\obj\Debug\Ksu.Cis300.Traveling.csproj.GenerateResource.Cache
+C:\Users\Vladislav\Desktop\CIS 300\Homework 1\Ksu.Cis300.Traveling\Ksu.Cis300.Traveling\obj\Debug\Ksu.Cis300.Traveling.exe
+C:\Users\Vladislav\Desktop\CIS 300\Homework 1\Ksu.Cis300.Traveling\Ksu.Cis300.Traveling\obj\Debug\Ksu.Cis300.Traveling.pdb
+C:\Users\Vladislav\Desktop\CIS 300\Homework 1\Ksu.Cis300.Traveling\Ksu.Cis300.Traveling\bin\Debug\Ksu.Cis300.Drawing.dll
+C:\Users\Vladislav\Desktop\CIS 300\Homework 1\Ksu.Cis300.Traveling\Ksu.Cis300.Traveling\obj\Debug\Ksu.Cis300.Traveling.Traveling.resources
+C:\Users\Vladislav\Desktop\CIS 300\Homework 1(backtraing with points)\Ksu.Cis300.Traveling\Ksu.Cis300.Traveling\bin\Debug\Ksu.Cis300.Traveling.exe.config
+C:\Users\Vladislav\Desktop\CIS 300\Homework 1(backtraing with points)\Ksu.Cis300.Traveling\Ksu.Cis300.Traveling\obj\Debug\Ksu.Cis300.Traveling.exe
+C:\Users\Vladislav\Desktop\CIS 300\Homework 1(backtraing with points)\Ksu.Cis300.Traveling\Ksu.Cis300.Traveling\obj\Debug\Ksu.Cis300.Traveling.pdb
+C:\Users\Vladislav\Desktop\Past School Folders\CIS 300\Homework 1(backtraing with points)\Ksu.Cis300.Traveling\Ksu.Cis300.Traveling\bin\Debug\Ksu.Cis300.Traveling.exe.config
+C:\Users\Vladislav\Desktop\Past School Folders\CIS 300\Homework 1(backtraing with points)\Ksu.Cis300.Traveling\Ksu.Cis300.Traveling\obj\Debug\Ksu.Cis300.Traveling.exe
+C:\Users\Vladislav\Desktop\Past School Folders\CIS 300\Homework 1(backtraing with points)\Ksu.Cis300.Traveling\Ksu.Cis300.Traveling\obj\Debug\Ksu.Cis300.Traveling.pdb
+C:\Users\Vladislav\Desktop\Past School Folders\CIS 300\Homework 1(backtraing with points)\Ksu.Cis300.Traveling\Ksu.Cis300.Traveling\bin\Debug\Ksu.Cis300.Traveling.exe
+C:\Users\Vladislav\Desktop\Past School Folders\CIS 300\Homework 1(backtraing with points)\Ksu.Cis300.Traveling\Ksu.Cis300.Traveling\bin\Debug\Ksu.Cis300.Traveling.pdb
+C:\Users\Vladislav\Desktop\Past School Folders\CIS 300\Homework 1(backtraing with points)\Ksu.Cis300.Traveling\Ksu.Cis300.Traveling\bin\Debug\Ksu.Cis300.Drawing.dll
+C:\Users\Vladislav\Desktop\Past School Folders\CIS 300\Homework 1(backtraing with points)\Ksu.Cis300.Traveling\Ksu.Cis300.Traveling\obj\Debug\Ksu.Cis300.Traveling.csprojResolveAssemblyReference.cache
+C:\Users\Vladislav\Desktop\Past School Folders\CIS 300\Homework 1(backtraing with points)\Ksu.Cis300.Traveling\Ksu.Cis300.Traveling\obj\Debug\Ksu.Cis300.Traveling.Traveling.resources
+C:\Users\Vladislav\Desktop\Past School Folders\CIS 300\Homework 1(backtraing with points)\Ksu.Cis300.Traveling\Ksu.Cis300.Traveling\obj\Debug\Ksu.Cis300.Traveling.Properties.Resources.resources
+C:\Users\Vladislav\Desktop\Past School Folders\CIS 300\Homework 1(backtraing with points)\Ksu.Cis300.Traveling\Ksu.Cis300.Traveling\obj\Debug\Ksu.Cis300.Traveling.csproj.GenerateResource.Cache

@@ -1,0 +1,5 @@
+C:\Users\Vladislav\Desktop\CIS 501\Project3\Phase2\Dubrovenski_Vladislav\VehicleRegistrationCore\bin\Debug\VehicleRegistrationCore.dll
+C:\Users\Vladislav\Desktop\CIS 501\Project3\Phase2\Dubrovenski_Vladislav\VehicleRegistrationCore\bin\Debug\VehicleRegistrationCore.pdb
+C:\Users\Vladislav\Desktop\CIS 501\Project3\Phase2\Dubrovenski_Vladislav\VehicleRegistrationCore\obj\Debug\VehicleRegistrationCore.csprojResolveAssemblyReference.cache
+C:\Users\Vladislav\Desktop\CIS 501\Project3\Phase2\Dubrovenski_Vladislav\VehicleRegistrationCore\obj\Debug\VehicleRegistrationCore.dll
+C:\Users\Vladislav\Desktop\CIS 501\Project3\Phase2\Dubrovenski_Vladislav\VehicleRegistrationCore\obj\Debug\VehicleRegistrationCore.pdb

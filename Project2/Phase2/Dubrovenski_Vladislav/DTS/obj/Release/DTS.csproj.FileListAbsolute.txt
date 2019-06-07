@@ -1,0 +1,7 @@
+C:\LearningTree\123P\DTS\DTS_NewCode2014\Implementation_withUnitTest\DTS\bin\Release\DTS.dll.config
+C:\LearningTree\123P\DTS\DTS_NewCode2014\Implementation_withUnitTest\DTS\bin\Release\DTS.dll
+C:\LearningTree\123P\DTS\DTS_NewCode2014\Implementation_withUnitTest\DTS\bin\Release\DTS.pdb
+C:\LearningTree\123P\DTS\DTS_NewCode2014\Implementation_withUnitTest\DTS\obj\Release\DTS_Project.Properties.Resources.resources
+C:\LearningTree\123P\DTS\DTS_NewCode2014\Implementation_withUnitTest\DTS\obj\Release\DTS.csproj.GenerateResource.Cache
+C:\LearningTree\123P\DTS\DTS_NewCode2014\Implementation_withUnitTest\DTS\obj\Release\DTS.dll
+C:\LearningTree\123P\DTS\DTS_NewCode2014\Implementation_withUnitTest\DTS\obj\Release\DTS.pdb

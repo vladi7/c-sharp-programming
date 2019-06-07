@@ -1,0 +1,9 @@
+C:\Users\Julie\Desktop\cis300\TestGUI\TestGUI\bin\Debug\TestGUI.exe.config
+C:\Users\Julie\Desktop\cis300\TestGUI\TestGUI\bin\Debug\TestGUI.exe
+C:\Users\Julie\Desktop\cis300\TestGUI\TestGUI\bin\Debug\TestGUI.pdb
+C:\Users\Julie\Desktop\cis300\TestGUI\TestGUI\obj\Debug\TestGUI.csprojResolveAssemblyReference.cache
+C:\Users\Julie\Desktop\cis300\TestGUI\TestGUI\obj\Debug\TestGUI.Form1.resources
+C:\Users\Julie\Desktop\cis300\TestGUI\TestGUI\obj\Debug\TestGUI.Properties.Resources.resources
+C:\Users\Julie\Desktop\cis300\TestGUI\TestGUI\obj\Debug\TestGUI.csproj.GenerateResource.Cache
+C:\Users\Julie\Desktop\cis300\TestGUI\TestGUI\obj\Debug\TestGUI.exe
+C:\Users\Julie\Desktop\cis300\TestGUI\TestGUI\obj\Debug\TestGUI.pdb
